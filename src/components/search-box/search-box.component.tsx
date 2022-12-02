@@ -1,6 +1,6 @@
 import { ChangeEvent } from 'react';
 
-import 'search-box.styles.css';
+import './search-box.styles.css';
 
 type SearchBoxProps = {
   className: string;
